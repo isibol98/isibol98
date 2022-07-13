@@ -1,5 +1,9 @@
 ### Hi there 👋
+⚡I'm Ilkkan. My focus is improve myself on Back-End Development.
 
+😄Do not hesitate to contact me for further questions! I am always eager to get in touch.
+
+[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilkkanisibol/)
 <!--
 **isibol98/isibol98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
