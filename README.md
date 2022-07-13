@@ -1,5 +1,5 @@
 ### Hi there 👋
-⚡I'm Ilkkan. My focus is improve myself on Back-End Development.
+⚡I'm Ilkkan. My focus is improve myself on Back-End Development. ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 😄Do not hesitate to contact me for further questions! I am always eager to get in touch.
 
